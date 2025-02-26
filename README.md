@@ -40,6 +40,19 @@ Identify and describe at least three key milestones in the evolution of software
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
+1. **Planning**: Assessing the project's feasibility, defining objectives, and creating a high-level plan. This phase involves stakeholders to identify scope, resources, costs, and timelines.
+
+2. **Requirements Analysis**: Gathering and documenting detailed requirements from stakeholders to understand what the software should do.
+
+3. **Design**: Creating the architecture and detailed design of the software, including system components, interfaces, data models, and workflows.
+
+4. **Implementation (Coding)**: Writing the actual code based on the design specifications to transform the design into a working software product.
+
+5. **Testing**: Verifying that the software works as intended through various types of testing (unit, integration, system, and acceptance) to identify and fix bugs.
+
+6. **Deployment**: Releasing the software to the production environment, installing it, configuring systems, and ensuring it is ready for use by end-users.
+
+7. **Maintenance**: Monitoring the software after deployment, making necessary updates, enhancements, and fixing bugs to ensure it continues to meet users' needs.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
