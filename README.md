@@ -27,6 +27,16 @@ development, testing, and maintenance of software. It encompasses a set of princ
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+### Key Milestones in the Evolution of Software Engineering
+
+1. **The Birth of Programming Languages (1950s)**
+   In the early days of computing, programmers used machine language, which consisted of binary code (1s and 0s). The introduction of higher-level programming languages like FORTRAN (1957) and COBOL (1959) marked a significant milestone. These languages made it easier to write and understand code, allowing more people to become programmers and accelerating software development.
+
+2. **The Advent of Structured Programming (1970s)**
+   Structured programming introduced the use of control structures such as loops, conditionals, and subroutines. This approach emphasized the importance of clear and logical flow in code, making it more maintainable and less prone to errors. Key figures like Edsger Dijkstra advocated for this methodology, which paved the way for modern programming practices.
+
+3. **The Emergence of Object-Oriented Programming (1980s)**
+   Object-oriented programming (OOP) introduced the concept of organizing code into "objects," which represent real-world entities. Each object contains data (attributes) and methods (functions) that operate on the data. This approach promoted reusability, modularity, and scalability in software design. Languages like Smalltalk and C++ popularized OOP, and it remains a foundational concept in software engineering today.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
