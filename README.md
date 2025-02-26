@@ -56,6 +56,45 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+### Waterfall Methodology
+#### Description:
+- **Linear Approach**: The Waterfall methodology is a sequential, linear process. Each phase must be completed before the next begins.
+- **Phases**: Typically includes phases like requirements analysis, design, implementation, testing, deployment, and maintenance.
+- **Documentation**: Emphasizes thorough documentation at each phase.
+- **Fixed Requirements**: Requirements are defined at the beginning and are less likely to change during development.
+
+#### Pros:
+- **Clear Structure**: Easy to understand and manage due to its linear nature.
+- **Detailed Documentation**: Comprehensive documentation ensures everyone is on the same page.
+- **Predictable Timelines**: Well-defined phases help in estimating timelines and budgets accurately.
+
+#### Cons:
+- **Inflexibility**: Not suitable for projects where requirements may change frequently.
+- **Late Testing**: Testing happens at the end, which may lead to discovering major issues late in the process.
+
+#### Appropriate Scenarios:
+- **Large-Scale Projects**: Where requirements are well understood and unlikely to change, such as building infrastructure systems.
+- **Regulated Industries**: Where strict adherence to standards and documentation is critical, such and defense industries.
+
+### Agile Methodology
+#### Description:
+- **Iterative Approach**: Agile is an iterative and incremental approach, focusing on delivering small, functional pieces of software in short cycles.
+- **Flexibility**: Emphasizes flexibility and customer collaboration.
+- **Continuous Feedback**: Frequent feedback and adaptation throughout the development process.
+
+#### Pros:
+- **Adaptability**: Can quickly respond to changing requirements.
+- **Continuous Improvement**: Regular feedback leads to continuous improvement.
+- **Early Detection of Issues**: Frequent testing and iterations help in identifying and fixing issues early.
+
+#### Cons:
+- **Less Predictability**: Flexible scope can make it harder to predict timelines and budgets.
+- **High Involvement**: Requires continuous collaboration and involvement from stakeholders.
+
+#### Appropriate Scenarios:
+- **Dynamic Projects**: Where requirements are expected to change or evolve, such as in software startups developing new products.
+- **Customer-Centric Projects**: Where continuous feedback from users is crucial, such as in mobile app development.
+
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
