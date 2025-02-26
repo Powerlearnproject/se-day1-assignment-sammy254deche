@@ -98,6 +98,33 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+### Software Developer
+**Roles and Responsibilities:**
+- **Coding**: Writing and maintaining the source code of the software.
+- **Designing**: Creating software architecture and detailed designs for application components.
+- **Debugging**: Identifying and fixing bugs or errors in the code.
+- **Collaborating**: Working closely with other team members, such as designers and testers, to ensure the software meets requirements.
+- **Documentation**: Creating and maintaining documentation for the code and software design.
+- **Continuous Improvement**: Staying updated with new technologies and practices to improve software quality and performance.
+
+### Quality Assurance Engineer
+**Roles and Responsibilities:**
+- **Test Planning**: Creating test plans, test cases, and test scripts based on software requirements and design.
+- **Executing Tests**: Performing various types of testing (e.g., unit, integration, system, user acceptance) to identify defects.
+- **Bug Reporting**: Documenting and reporting defects, providing detailed information to the development team for resolution.
+- **Verification and Validation**: Ensuring the software meets the specified requirements and works as intended.
+- **Automation**: Developing and maintaining automated test scripts to improve testing efficiency.
+- **Quality Metrics**: Tracking and analyzing quality metrics to identify areas for improvement.
+
+### Project Manager
+**Roles and Responsibilities:**
+- **Project Planning**: Defining project scope, goals, timelines, and resources. Creating detailed project plans and schedules.
+- **Team Management**: Coordinating and leading the project team, assigning tasks, and ensuring team members have the necessary resources.
+- **Communication**: Acting as a liaison between stakeholders, developers, and other team members. Ensuring clear and effective communication throughout the project.
+- **Risk Management**: Identifying, assessing, and mitigating project risks. Developing contingency plans to address potential issues.
+- **Monitoring and Reporting**: Tracking project progress, managing budgets, and providing regular status updates to stakeholders.
+- **Quality Assurance**: Ensuring the project meets quality standards and requirements.
+
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
