@@ -239,3 +239,16 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+### Vague Prompt
+"Tell me about software."
+
+### Improved Prompt
+"Explain the difference between system software and application software, and provide examples of each."
+
+### Explanation
+**Why the Improved Prompt is More Effective:**
+1. **Clarity**: The improved prompt is clear about the specific information the user is seeking. Instead of a broad request about software, it narrows down the focus to two specific types of software.
+2. **Specificity**: By asking about the difference between system software and application software, the prompt guides the AI to provide a targeted and informative response.
+3. **Conciseness**: The improved prompt is concise, making it easier for the AI to understand and process the request without any ambiguity.
+4. **Contextual Detail**: The inclusion of examples helps illustrate the concepts, providing a more comprehensive and useful answer.
